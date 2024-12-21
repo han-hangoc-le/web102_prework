@@ -23,7 +23,7 @@ The following **optional** features are implemented (I'm working on them):
 
 Here's a walkthrough of implemented features:
 
-<img src='![SeaMonsterCrowdfunding](https://github.com/user-attachments/assets/0dbad29e-3ce0-4248-8ef4-36956bc8151a)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/user-attachments/assets/0dbad29e-3ce0-4248-8ef4-36956bc8151a' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LiceCap  
